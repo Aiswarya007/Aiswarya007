@@ -1,7 +1,6 @@
 ## 👋 Hi there! I'm Aiswarya007
 
 Welcome to my GitHub profile!  
-This is a ✨ _special_ ✨ repository because its `README.md` appears on my GitHub profile — and you're here!
 
 ---
 
