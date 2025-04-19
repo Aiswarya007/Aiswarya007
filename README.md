@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Aiswarya007
+## 👋 Hi there! I'm Aiswarya
 
 Welcome to my GitHub profile!  
 
