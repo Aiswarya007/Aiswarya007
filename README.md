@@ -7,7 +7,6 @@ This is a ✨ _special_ ✨ repository because its `README.md` appears on my Git
 
 ### 🚀 About Me
 - 💻 I'm a **DevOps Engineer | SDET | Python Developer | Cybersecurity Enthusiast**
-- 🎓 Currently pursuing my **Master's in Network Forensics** at Halmstad University, Sweden
 - ☁️ **Google Cloud Certified Engineer** with hands-on experience in AWS & Azure
 - 🛠️ Passionate about automation, cloud-native tools, secure software delivery, and digital forensics
 
